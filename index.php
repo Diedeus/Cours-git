@@ -9,5 +9,6 @@
 </head>
 <body>
     <h1>Hugo BOCQUET</h1>
+    <h2>cool man</h2>
 </body>
 </html>
